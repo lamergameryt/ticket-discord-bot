@@ -11,7 +11,7 @@ import java.awt.*;
 
 public class Utilities {
     /**
-     * The characters which are to be used to append as suffix.
+     * The characters from which a suffix is to be generated.
      *
      * {@link Utilities#getSuffix(int)}
      */

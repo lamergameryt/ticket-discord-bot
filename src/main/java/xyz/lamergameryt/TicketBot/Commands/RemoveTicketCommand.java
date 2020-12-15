@@ -16,7 +16,7 @@ public class RemoveTicketCommand extends Command {
     public RemoveTicketCommand() {
         super.name = "remove";
         super.arguments = "<user-id>";
-        super.help = "Remove an user from the ticket.";
+        super.help = "Remove an user from a ticket.";
     }
 
     @Override

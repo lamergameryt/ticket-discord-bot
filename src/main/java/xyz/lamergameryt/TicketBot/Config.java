@@ -8,7 +8,7 @@ package xyz.lamergameryt.TicketBot;
  * The configuration file for the discord bot. The documentation above each variable describes its usage.
  * Fill out all the values of the variables according to their documentation.
  *
- * The bot can be used with the default values present in the configuration.
+ * The bot can be used with the default values present in the configuration, after adding the token and the owner id.
  */
 public class Config {
     /**

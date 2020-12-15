@@ -14,7 +14,7 @@ import xyz.lamergameryt.TicketBot.Utilities;
 
 import static xyz.lamergameryt.TicketBot.Utilities.getDefaultEmbed;
 
-@CommandInfo(name = "new", description =  "Creates a new text channel in the category specified with an appropriate name.")
+@CommandInfo(name = "new", description =  "Creates a new text channel in the category specified, with an appropriate name.")
 public class NewTicketCommand extends Command {
     /**
      * The name of the category in which the tickets will be created.

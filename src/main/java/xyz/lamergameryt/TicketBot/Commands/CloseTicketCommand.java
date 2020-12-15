@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit;
 
 import static xyz.lamergameryt.TicketBot.Utilities.getDefaultEmbed;
 
-@CommandInfo(name = "close", description = "Deletes the ticket channel which the command was executed in.")
+@CommandInfo(name = "close", description = "Deletes the ticket channel in which the command was executed.")
 public class CloseTicketCommand extends Command {
     /**
      * The time to wait before closing a ticket.

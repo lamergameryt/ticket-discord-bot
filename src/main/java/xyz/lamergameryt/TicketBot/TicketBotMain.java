@@ -33,7 +33,7 @@ public class TicketBotMain {
         } catch (LoginException e) {
             System.out.println("The token \"" + Config.BOT_TOKEN + "\" is invalid.");
         } catch (InterruptedException e) {
-            System.out.println("The creation of the bot was interrupted.");
+            System.out.println("The creation of the bot was interrupted. Please re-run the program.");
         }
     }
 }

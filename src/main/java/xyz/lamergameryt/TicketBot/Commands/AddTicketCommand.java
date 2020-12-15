@@ -16,7 +16,7 @@ public class AddTicketCommand extends Command {
     public AddTicketCommand() {
         super.name = "add";
         super.arguments = "<user-id>";
-        super.help = "Add an user to the ticket.";
+        super.help = "Add an user to a ticket.";
     }
 
     @Override
