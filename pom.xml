@@ -59,13 +59,13 @@
                 </configuration>
             </plugin>
         </plugins>
-    </build>
 
-    <resources>
-        <resource>
-            <directory>src/main/resources</directory>
-        </resource>
-    </resources>
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+            </resource>
+        </resources>
+    </build>
 
     <repositories>
         <repository>
@@ -91,10 +91,9 @@
         <dependency>
             <groupId>com.jagrosh</groupId>
             <artifactId>jda-utilities</artifactId>
-            <version>LATEST</version>
+            <version>3.0.5</version>
             <scope>compile</scope>
             <type>pom</type>
         </dependency>
     </dependencies>
-
 </project>
