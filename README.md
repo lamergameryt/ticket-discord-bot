@@ -1,6 +1,6 @@
 # Ticket Discord Bot
 #### Create discord tickets with ease
-![License](https://img.shields.io/github/license/lamergameryt/ticket-discord-bot) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/lamergameryt/ticket-discord-bot) [![JDA Version](https://img.shields.io/badge/Discord%20JDA-4.2.0__222+-blue.svg)](https://spigot.org/) ![GitHub followers](https://img.shields.io/github/followers/lamergameryt?style=social)
+![License](https://img.shields.io/github/license/lamergameryt/ticket-discord-bot) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/lamergameryt/ticket-discord-bot) [![JDA Version](https://img.shields.io/badge/Discord%20JDA-4.2.0__222+-blue.svg)](https://github.com/DV8FromTheWorld/JDA) ![GitHub followers](https://img.shields.io/github/followers/lamergameryt?style=social)
 [![Made With Java](https://img.shields.io/badge/Made%20With-Java-blueviolet)](https://java.com)
 
 **Ticket Discord Bot** is a discord bot which has one purpose: creating tickets.
