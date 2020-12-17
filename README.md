@@ -30,6 +30,18 @@ The configuration file is documented properly and it contains the usage of the v
 
 The bot **will not work** if the `BOT_TOKEN` and `OWNER_ID` values are not set properly. It is highly recommended that you spend some time configuring the bot before using it.
 
+## Commands
+I'll assume the prefix of the bot is set to the default prefix of `+` while listing the commands.
+If you change this prefix then use that string as the prefix of the bot.
+
+This bot has the following commands:
+* `+new` - Create a new ticket.
+* `+close` - Close an open ticket.
+* `+add <user-id>` - Add an user to a ticket.
+* `+remove <user-id>` - Remove an user from a ticket.
+
+The `add` and `remove` commands only support user ids for now but future support for other means of adding / removing an user from a ticket will be added.
+
 ## License
 This plugin is licensed under the MIT License. See the LICENSE file in the top distribution directory for the full license text.
 
